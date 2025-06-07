@@ -57,7 +57,7 @@ class Ui_MainWindow(object):
 
             username = self.lineEdit_2.text()
             if username == '':
-                username = 'ghsdgpiuhdsuishrug5534534'
+                username = 'nomane'
 
             options = {
                 'username':'',
